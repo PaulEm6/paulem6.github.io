@@ -8,5 +8,6 @@ NSE Soyons
 - big impact project 1
 
 ### Projects
--Project 1
+- Project 1
+- Project 2
 -Project 2
