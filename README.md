@@ -1,4 +1,4 @@
-# My Portfolio
+# My Blue
 
 Welcome to my portfolio website! This site showcases my education, work experience, and projects.
 
