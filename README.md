@@ -23,7 +23,7 @@ interactive report for data analysis using Power BI
 
 This project aimed to predict movie revenue using machine learning, leveraging features like genre, keywords, and release date from TMDB. The main challenge was cleaning diverse data types. The pipeline included data cleaning, feature engineering, model training, evaluation, and deployment. Future enhancements may involve advanced feature engineering and model exploration. Key takeaways included navigating diverse data and understanding revenue prediction complexities.
 
-### Movie Revenue Prediction
+### Image Generation
 ![Box Office Prediction](/assets/img/box.png)
 
 [Code](https://github.com/PaulEm6/Movie-Revenue-Estimation)
