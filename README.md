@@ -15,20 +15,27 @@
 interactive report for data analysis using Power BI
 
 ## Projects
+
 ### Movie Revenue Prediction
 ![Box Office Prediction](/assets/img/box.png)
-![Github](https://github.com/PaulEm6/Movie-Revenue-Estimation)
 
-This project focuses on developing a machine learning model to predict movie revenue utilizing features such as genre, keywords, and release date sourced from The Movie Database (TMDB) website. The primary challenge was cleaning and preprocessing heterogeneous data types, including categorical text data and numerical statistics. The machine learning pipeline involved data cleaning, feature engineering, model training, evaluation, and deployment in a web application for real-world use. Future improvements could entail advanced feature engineering techniques, exploring additional models, and fine-tuning hyperparameters for enhanced performance. Valuable lessons learned encompassed handling diverse data types, executing various stages of the machine learning pipeline, and comprehending the intricacies of predicting movie revenue.
+[Code](https://github.com/PaulEm6/Movie-Revenue-Estimation)
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+This project aimed to predict movie revenue using machine learning, leveraging features like genre, keywords, and release date from TMDB. The main challenge was cleaning diverse data types. The pipeline included data cleaning, feature engineering, model training, evaluation, and deployment. Future enhancements may involve advanced feature engineering and model exploration. Key takeaways included navigating diverse data and understanding revenue prediction complexities.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Movie Revenue Prediction
+![Box Office Prediction](/assets/img/box.png)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+[Code](https://github.com/PaulEm6/Movie-Revenue-Estimation)
 
-![Bike Study](/assets/img/bike_study.jpeg)
+This project aimed to predict movie revenue using machine learning, leveraging features like genre, keywords, and release date from TMDB. The main challenge was cleaning diverse data types. The pipeline included data cleaning, feature engineering, model training, evaluation, and deployment. Future enhancements may involve advanced feature engineering and model exploration. Key takeaways included navigating diverse data and understanding revenue prediction complexities.
+
+### Movie Revenue Prediction
+![Box Office Prediction](/assets/img/box.png)
+
+[Code](https://github.com/PaulEm6/Movie-Revenue-Estimation)
+
+This project aimed to predict movie revenue using machine learning, leveraging features like genre, keywords, and release date from TMDB. The main challenge was cleaning diverse data types. The pipeline included data cleaning, feature engineering, model training, evaluation, and deployment. Future enhancements may involve advanced feature engineering and model exploration. Key takeaways included navigating diverse data and understanding revenue prediction complexities.
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
