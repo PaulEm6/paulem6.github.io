@@ -15,10 +15,10 @@
 interactive report for data analysis using Power BI
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Movie Revenue Estimation
+[Github]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/PaulEm6/Movie-Revenue-Estimation))
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+This project focuses on developing a machine learning model to predict movie revenue utilizing features such as genre, keywords, and release date sourced from The Movie Database (TMDB) website. The primary challenge was cleaning and preprocessing heterogeneous data types, including categorical text data and numerical statistics. The machine learning pipeline involved data cleaning, feature engineering, model training, evaluation, and deployment in a web application for real-world use. Future improvements could entail advanced feature engineering techniques, exploring additional models, and fine-tuning hyperparameters for enhanced performance. Valuable lessons learned encompassed handling diverse data types, executing various stages of the machine learning pipeline, and comprehending the intricacies of predicting movie revenue.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
