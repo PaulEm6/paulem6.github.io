@@ -16,7 +16,7 @@ interactive report for data analysis using Power BI
 
 ## Projects
 ### Movie Revenue Estimation
-[Github]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/PaulEm6/Movie-Revenue-Estimation))
+[Github](https://github.com/PaulEm6/Movie-Revenue-Estimation)
 
 This project focuses on developing a machine learning model to predict movie revenue utilizing features such as genre, keywords, and release date sourced from The Movie Database (TMDB) website. The primary challenge was cleaning and preprocessing heterogeneous data types, including categorical text data and numerical statistics. The machine learning pipeline involved data cleaning, feature engineering, model training, evaluation, and deployment in a web application for real-world use. Future improvements could entail advanced feature engineering techniques, exploring additional models, and fine-tuning hyperparameters for enhanced performance. Valuable lessons learned encompassed handling diverse data types, executing various stages of the machine learning pipeline, and comprehending the intricacies of predicting movie revenue.
 
