@@ -32,11 +32,11 @@ This project delves into image generation using a Deep Convolutional Generative 
 
 ### Exploring Neural Networks
 
-![Image of Crop to be Classified](/assets/img/nn.png)
+![Image of Crop to be Classified](/assets/img/nn_good.png)
 
 [Github Repository](https://github.com/PaulEm6/Exploring-Neural-Networks)
 
-This project explores neural networks for image classification, comparing the efficacy of training a Convolutional Neural Network (CNN) from scratch versus utilizing transfer learning. Using a dataset of plantation images from Kaggle, including jute, corn, rice, wheat, and sugarcane, Keras is employed for model development and Scikit-learn for performance analysis. The study aims to provide insights into the effectiveness of each approach, with potential applications spanning agriculture, image classification, and machine learning research.
+This project explores neural networks for image classification, comparing the efficacy of training a Convolutional Neural Network (CNN) from scratch versus utilizing transfer learning. Using a dataset of plantation images from Kaggle, including jute, maize, rice, wheat, and sugarcane, Keras is employed for model development and Scikit-learn for performance analysis. The study aims to provide insights into the effectiveness of each approach, with potential applications spanning agriculture, image classification, and machine learning research.
 
 
 
