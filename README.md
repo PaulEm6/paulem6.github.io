@@ -28,14 +28,21 @@ This project aimed to predict movie revenue using machine learning, leveraging f
 
 [Code](https://github.com/PaulEm6/Movie-Revenue-Estimation)
 
-This project aimed to predict movie revenue using machine learning, leveraging features like genre, keywords, and release date from TMDB. The main challenge was cleaning diverse data types. The pipeline included data cleaning, feature engineering, model training, evaluation, and deployment. Future enhancements may involve advanced feature engineering and model exploration. Key takeaways included navigating diverse data and understanding revenue prediction complexities.
-
+This project delves into image generation using a Deep Convolutional Generative Adversarial Network (DCGAN) applied to the Pokemon dataset. Leveraging PyTorch, I enhanced a Kaggle-based source code, experimenting with neural network architectures to refine image quality. I also optimized the code for reproducibility by implementing object-oriented design and fixing a random seed. Future endeavors entail advancing image quality through exploration of cutting-edge techniques and architectures proposed in research papers for neural network-based image generation.
 ### Movie Revenue Prediction
-![Box Office Prediction](/assets/img/box.png)
+
+![Pokemon Generated](/assets/img/box.png)
+
+### Exploring Neural Networks
+
+![Box Office Prediction](/assets/img/image.png)
 
 [Code](https://github.com/PaulEm6/Movie-Revenue-Estimation)
 
-This project aimed to predict movie revenue using machine learning, leveraging features like genre, keywords, and release date from TMDB. The main challenge was cleaning diverse data types. The pipeline included data cleaning, feature engineering, model training, evaluation, and deployment. Future enhancements may involve advanced feature engineering and model exploration. Key takeaways included navigating diverse data and understanding revenue prediction complexities.
+This project delves into image generation using a Deep Convolutional Generative Adversarial Network (DCGAN) applied to the Pokemon dataset. Leveraging PyTorch, I enhanced a Kaggle-based source code, experimenting with neural network architectures to refine image quality. I also optimized the code for reproducibility by implementing object-oriented design and fixing a random seed. Future endeavors entail advancing image quality through exploration of cutting-edge techniques and architectures proposed in research papers for neural network-based image generation.
+### Movie Revenue Prediction
+
+![Pokemon Generated](/assets/img/box.png)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
