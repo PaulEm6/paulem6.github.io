@@ -3,18 +3,16 @@
 #### Technical Skills: Python, Java, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Computer Science	| The University of Quebec at Chicoutimi (_January 2025_)	 			        		
+- B.S., Science | ESISAR Grenoble INP (May 2022)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Asistant Engineer @ NSE Soyons (_January 2022 - June 2022_)**
+- Developed a software tool using Python and TestStand that allowed engineers to systematically test equipment that was used for production
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Software Developer Intern @ NESTLE CWAR Fabrique d'Abidjan (_April 2021 - May 2021_)**
+- Worked closely with agents of the factor y to develop a comprehensive
+interactive report for data analysis using Power BI
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
