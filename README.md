@@ -7,12 +7,11 @@
 - B.S., Science | ESISAR Grenoble INP (May 2022)
 
 ## Work Experience
-**Asistant Engineer @ NSE Soyons (_January 2022 - June 2022_)**
-- Developed a software tool using Python and TestStand that allowed engineers to systematically test equipment that was used for production
+**Intern Software Developer @ NSE Soyons (_January 2022 - June 2022_)**
+- Developed a software tool using Python and TestStand. This tool allowsengineers to systematically test equipment used in production
 
-**Software Developer Intern @ NESTLE CWAR Fabrique d'Abidjan (_April 2021 - May 2021_)**
-- Worked closely with agents of the factory to develop a comprehensive
-interactive report for data analysis using Power BI
+**Data Scientist Intern @ NESTLE CWAR Fabrique d'Abidjan (_April 2021 - May 2021_)**
+- Worked closely with agents of the factor y to develop a comprehensive interactive report for data analysis using Power BI and Python
 
 ## Projects
 
