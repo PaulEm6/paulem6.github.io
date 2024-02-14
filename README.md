@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, Java, MATLAB
+#### Technical Skills: Python, Pytorch, TensorFlow, Github
 
 ## Education
 - M.S., Computer Science	| The University of Quebec at Chicoutimi (_January 2025_)	 			        		
