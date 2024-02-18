@@ -8,11 +8,17 @@
 
 ## Work Experience
 **Intern Software Developer @ NSE Soyons (_January 2023 - June 2023_)**
-- Developed a software tool using Python and TestStand. This tool allowsengineers to systematically test equipment used in production
+- Developed Python and TestStand software tool for efficient equipment testing.
+- Enabled seamless functionality across various equipment types (e.g., power generators, oscilloscopes)
+through SCPI communication integration, ensuring versatility.
+- Improved testing efficiency and reliability of reports for factory agents.
 
 **Data Scientist Intern @ NESTLE CWAR Fabrique d'Abidjan (_June 2022 - August 2022_)**
-- Worked closely with agents of the factory to develop a comprehensive interactive report for data analysis using Power BI and Python
-
+- Developed interactive Power BI report for wastewater treatment sector, enabling real-time data analysis
+and trend tracking.
+- Enhanced departmental monitoring for factory management.
+- Designed tool for scalability across factory departments.
+  
 ## Projects
 
 ### Movie Revenue Prediction
