@@ -37,11 +37,9 @@ This project delves into image generation using a Deep Convolutional Generative 
 
 ### Pay Attention
 
-![Image of Crop to be Classified](/assets/img/nn_good.png)
+![Transformer Architecture from research paper](/assets/img/attention.png)
 
 [Github Repository](https://github.com/PaulEm6/Exploring-Neural-Networks)
 
-This project explores neural networks for image classification, comparing the efficacy of training a Convolutional Neural Network (CNN) from scratch versus utilizing transfer learning. Using a dataset of plantation images from Kaggle, including jute, maize, rice, wheat, and sugarcane, Keras is employed for model development and Scikit-learn for performance analysis. The study aims to provide insights into the effectiveness of each approach, with potential applications spanning agriculture, image classification, and machine learning research.
-
-
+This project delves into the implementation of a Transformer architecture for text generation, drawing inspiration from the seminal "Attention is All You Need" paper and leveraging the PyTorch library. Despite encountering challenges in understanding both the theoretical concepts and the intricacies of the provided source code, we successfully developed a decoder-only Transformer with self-attention. Building upon the original implementation, we extended the functionality by implementing a word-based tokenization approach, exploring cross-attention mechanisms, and conducting extensive experiments with diverse training datasets, including research papers, novel chapters, and song lyrics. These efforts not only deepened our understanding of attention mechanisms and Transformer architectures but also provided valuable insights into their application in natural language processing tasks.
 
