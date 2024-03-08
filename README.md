@@ -19,7 +19,7 @@ and trend tracking.
 - Enhanced departmental monitoring for factory management.
 - Designed tool for scalability across factory departments.
   
-## Projects
+## Recent Projects
 
 ### Movie Revenue Prediction
 ![Box Office Prediction](/assets/img/box.png)
@@ -35,7 +35,7 @@ This project aimed to predict movie revenue using machine learning, leveraging f
 
 This project delves into image generation using a Deep Convolutional Generative Adversarial Network (DCGAN) applied to the Pokemon dataset. Leveraging PyTorch, I enhanced a Kaggle-based source code, experimenting with neural network architectures to refine image quality. I also optimized the code for reproducibility by implementing object-oriented design and fixing a random seed. Future endeavors entail advancing image quality through exploration of cutting-edge techniques and architectures proposed in research papers for neural network-based image generation.
 
-### Exploring Neural Networks
+### Pay Attention
 
 ![Image of Crop to be Classified](/assets/img/nn_good.png)
 
