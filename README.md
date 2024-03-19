@@ -3,7 +3,8 @@
 #### Technical Skills: Python, Pytorch, TensorFlow, Github
 
 ## Education
-- M.S., Computer Science	| The University of Quebec at Chicoutimi (_January 2025_)	 			        		
+- M.S., Computer Science	| The University of Quebec at Chicoutimi (_January 2025_)
+- M.S., Computer Science	| ESISAR Grenoble INP (_January 2025_)	 			        		        		
 - B.S., Science | ESISAR Grenoble INP (May 2022)
 
 ## Work Experience
