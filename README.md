@@ -4,8 +4,8 @@
 
 ## Education
 - M.S., Computer Science	| The University of Quebec at Chicoutimi (_January 2025_)
-- M.S., Computer Science	| ESISAR Grenoble INP (_January 2025_)	 			        		        		
-- B.S., Science | ESISAR Grenoble INP (May 2022)
+- M.S., Computer Engineering	| ESISAR Grenoble INP (_January 2025_)	 			        		        		
+- B.S., Computer Engineering | ESISAR Grenoble INP (May 2022)
 
 ## Work Experience
 **Intern Software Developer @ NSE Soyons (_January 2023 - June 2023_)**
