@@ -30,7 +30,7 @@ and trend tracking.
 This project aimed to predict movie revenue using machine learning, leveraging features like genre, keywords, and release date from TMDB. The main challenge was cleaning diverse data types. The pipeline included data cleaning, feature engineering, model training, evaluation, and deployment. Future enhancements may involve advanced feature engineering and model exploration. Key takeaways included navigating diverse data and understanding revenue prediction complexities.
 
 ### Predictive Analysis in Sports
-![Pokemon Generated](/assets/img/sports_ml.png)
+![Pokemon Generated](/assets/img/sports_ml.jpg)
 
 [Github Repository](https://github.com/IIanonymeII/8INF974_Atelier_pratique_AI_2)
 
