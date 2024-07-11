@@ -40,7 +40,7 @@ This project delves into image generation using a Deep Convolutional Generative 
 
 ![Transformer Architecture from research paper](assets/img/Euro_Team.jpeg)
 
-[Github Repository](https://github.com/PaulEm6/Attention-is-all-you-need)
+[Github Repository](https://github.com/PaulEm6/Euro-Data-Exploration_Seminaire-IA)
 
 This project delves into the implementation of a Transformer architecture for text generation, drawing inspiration from the seminal "Attention is All You Need" paper and leveraging the PyTorch library. Despite encountering challenges in understanding both the theoretical concepts and the intricacies of the provided source code, we successfully developed a decoder-only Transformer with self-attention. Building upon the original implementation, we extended the functionality by implementing a word-based tokenization approach, exploring cross-attention mechanisms, and conducting extensive experiments with diverse training datasets, including research papers, novel chapters, and song lyrics. These efforts not only deepened our understanding of attention mechanisms and Transformer architectures but also provided valuable insights into their application in natural language processing tasks.
 
