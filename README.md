@@ -29,16 +29,16 @@ and trend tracking.
 
 This project aimed to predict movie revenue using machine learning, leveraging features like genre, keywords, and release date from TMDB. The main challenge was cleaning diverse data types. The pipeline included data cleaning, feature engineering, model training, evaluation, and deployment. Future enhancements may involve advanced feature engineering and model exploration. Key takeaways included navigating diverse data and understanding revenue prediction complexities.
 
-### Image Generation
-![Pokemon Generated](/assets/img/image.png)
+### Predictive Analysis in Sports
+![Pokemon Generated](/assets/img/sports_ml.png)
 
-[Github Repository](https://github.com/PaulEm6/Movie-Revenue-Estimation)
+[Github Repository](https://github.com/IIanonymeII/8INF974_Atelier_pratique_AI_2)
 
 This project delves into image generation using a Deep Convolutional Generative Adversarial Network (DCGAN) applied to the Pokemon dataset. Leveraging PyTorch, I enhanced a Kaggle-based source code, experimenting with neural network architectures to refine image quality. I also optimized the code for reproducibility by implementing object-oriented design and fixing a random seed. Future endeavors entail advancing image quality through exploration of cutting-edge techniques and architectures proposed in research papers for neural network-based image generation.
 
-### Pay Attention
+### Analytical Study of the European Football Championship
 
-![Transformer Architecture from research paper](assets/sports ml analytics.jpg)
+![Transformer Architecture from research paper](assets/img/Euro_Team.jpeg)
 
 [Github Repository](https://github.com/PaulEm6/Attention-is-all-you-need)
 
