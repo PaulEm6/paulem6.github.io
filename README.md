@@ -34,13 +34,11 @@ This project aimed to predict movie revenue using machine learning, leveraging f
 
 [Github Repository](https://github.com/IIanonymeII/8INF974_Atelier_pratique_AI_2)
 
-This project delves into image generation using a Deep Convolutional Generative Adversarial Network (DCGAN) applied to the Pokemon dataset. Leveraging PyTorch, I enhanced a Kaggle-based source code, experimenting with neural network architectures to refine image quality. I also optimized the code for reproducibility by implementing object-oriented design and fixing a random seed. Future endeavors entail advancing image quality through exploration of cutting-edge techniques and architectures proposed in research papers for neural network-based image generation.
-
+This machine learning project consists of, firstly, a literature review of different scientific articles on the use of machine learning and predictive analysis in sports, and secondly, adapting the methods proposed in these articles to different datasets. For example, an article elaborating on how to use machine learning algorithms to predict football results was used to predict results in basketball. This project was done in collaboration with another student.
 ### Analytical Study of the European Football Championship
 
 ![Transformer Architecture from research paper](assets/img/Euro_Team.jpeg)
 
 [Github Repository](https://github.com/PaulEm6/Euro-Data-Exploration_Seminaire-IA)
 
-This project delves into the implementation of a Transformer architecture for text generation, drawing inspiration from the seminal "Attention is All You Need" paper and leveraging the PyTorch library. Despite encountering challenges in understanding both the theoretical concepts and the intricacies of the provided source code, we successfully developed a decoder-only Transformer with self-attention. Building upon the original implementation, we extended the functionality by implementing a word-based tokenization approach, exploring cross-attention mechanisms, and conducting extensive experiments with diverse training datasets, including research papers, novel chapters, and song lyrics. These efforts not only deepened our understanding of attention mechanisms and Transformer architectures but also provided valuable insights into their application in natural language processing tasks.
-
+This data analysis project consists of a comprehensive study of the European Football Championship. The EURO Cup data is taken from a Kaggle dataset. We perform data exploration and visualize some interesting trends in the dataset. An essential part of the project involves verifying different hypotheses about the EURO Cup, such as whether the host nation has an advantage. Some statistical analysis and machine learning were performed during this project.
