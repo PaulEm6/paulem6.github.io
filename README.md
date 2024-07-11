@@ -38,7 +38,7 @@ This project delves into image generation using a Deep Convolutional Generative 
 
 ### Pay Attention
 
-![Transformer Architecture from research paper](/assets/img/attention.png)
+![Transformer Architecture from research paper](assets/sports ml analytics.jpg)
 
 [Github Repository](https://github.com/PaulEm6/Attention-is-all-you-need)
 
